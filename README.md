@@ -8,15 +8,15 @@ I'm passionate about DevOps, cloud computing, and automation. I enjoy learning n
 
 My goal is to develop scalable infrastructure and automate workflows using modern DevOps tools and best practices.
 
-**Technologies & Tools**
+## Technologies & Tools
 
-Cloud: AWS
-Containers: Docker, Kubernetes
-CI/CD: GitHub Actions, Jenkins
-Infrastructure as Code: Terraform, Ansible
-Operating Systems: Linux
-Version Control: Git, GitHub
-Scripting: Bash, Python
+- Cloud: AWS
+- Containers: Docker, Kubernetes
+- CI/CD: GitHub Actions, Jenkins
+- Infrastructure as Code: Terraform, Ansible
+- Operating Systems: Linux
+- Version Control: Git, GitHub
+- Scripting: Bash, Python
 
 **What I'm Learning & Building**
 
